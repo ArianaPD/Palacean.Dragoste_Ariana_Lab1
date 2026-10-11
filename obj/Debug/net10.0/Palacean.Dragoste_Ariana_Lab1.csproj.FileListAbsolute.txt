@@ -95,3 +95,4 @@
 /Users/arianapalacean-dragoste/Palacean.Dragoste_Ariana_Lab1/obj/Debug/net10.0/Palacean.Dragoste_Ariana_Lab1.pdb
 /Users/arianapalacean-dragoste/Palacean.Dragoste_Ariana_Lab1/obj/Debug/net10.0/Palacean.Dragoste_Ariana_Lab1.genruntimeconfig.cache
 /Users/arianapalacean-dragoste/Palacean.Dragoste_Ariana_Lab1/obj/Debug/net10.0/ref/Palacean.Dragoste_Ariana_Lab1.dll
+/Users/arianapalacean-dragoste/Palacean.Dragoste_Ariana_Lab1/obj/Debug/net10.0/Palacean.Dragoste_Ariana_Lab1.sourcelink.json
