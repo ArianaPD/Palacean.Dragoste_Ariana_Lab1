@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Palacean.Dragoste_Ariana_Lab1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84f62b96e23d1eccd1d95c1101bcb51aa0439654")]
 [assembly: System.Reflection.AssemblyProductAttribute("Palacean.Dragoste_Ariana_Lab1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Palacean.Dragoste_Ariana_Lab1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
