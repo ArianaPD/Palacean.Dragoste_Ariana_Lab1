@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Palacean.Dragoste_Ariana_Lab1/1.0.0": {
+        "runtime": {
+          "Palacean.Dragoste_Ariana_Lab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Palacean.Dragoste_Ariana_Lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
